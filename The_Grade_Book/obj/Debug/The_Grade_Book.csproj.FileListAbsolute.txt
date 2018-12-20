@@ -1,0 +1,7 @@
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\bin\Debug\The_Grade_Book.exe.config
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\bin\Debug\The_Grade_Book.exe
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\bin\Debug\The_Grade_Book.pdb
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\obj\Debug\The_Grade_Book.csprojAssemblyReference.cache
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\obj\Debug\The_Grade_Book.csproj.CoreCompileInputs.cache
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\obj\Debug\The_Grade_Book.exe
+C:\Users\cursist\Documents\jan\c#\The_Grade_Book\The_Grade_Book\obj\Debug\The_Grade_Book.pdb
